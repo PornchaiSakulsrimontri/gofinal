@@ -1,4 +1,4 @@
-module github.com/anuchito/myapi
+module github.com/pornchai/gofinal
 
 go 1.14
 
