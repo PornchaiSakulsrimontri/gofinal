@@ -1,4 +1,4 @@
-module github.com/pornchai/gofinal
+module github.com/PornchaiSakulsrimontri/gofinal
 
 go 1.14
 
